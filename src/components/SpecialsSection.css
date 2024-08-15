@@ -1,0 +1,26 @@
+/* Specials Section styles */
+.specials-container {
+  padding: 50px 20px;
+  background-color: #fff;
+  text-align: center;
+}
+
+.specials-items {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.special-item {
+  max-width: 45%;
+}
+
+.special-item img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.special-item h3 {
+  margin-top: 10px;
+  font-size: 1.5rem;
+}

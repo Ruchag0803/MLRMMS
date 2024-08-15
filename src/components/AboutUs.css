@@ -1,0 +1,24 @@
+/* About Us Section styles */
+.about-us-container {
+  padding: 50px 20px;
+  background-color: #f8f8f8;
+  text-align: center;
+}
+
+.about-us-content {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.about-us-image {
+  width: 50%;
+  border-radius: 10px;
+}
+
+.about-us-content p {
+  width: 50%;
+  font-size: 1.2rem;
+  line-height: 1.8;
+}
